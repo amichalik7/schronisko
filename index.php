@@ -11,8 +11,19 @@
 </head>
 
 <body>
+    <nav>
+    <button class="btn btn-primary" type="button" id="btnZwierzeta">Zwierzęta</button>
+    <button class="btn btn-primary" type="button" id="btnPersonel">Personel</button>
+    <button class="btn btn-primary" type="button" id="btnLeczenie">Leczenie</button>
+    <button class="btn btn-primary" type="button" id="btnAdopcje">Adopcje</button>
+    </nav>
 <h1>Witaj w schronisku dla zwierząt</h1>
-<a href="zwierzeta.php"><button class="btn btn-secondary" type="button">Zwierzęta</button></a>
+
+<div id="glowny">
+
+</div>
+
+<script src="scripts.js"></script>
 </body>
 
 </html>
